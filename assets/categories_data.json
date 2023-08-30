@@ -1,0 +1,3755 @@
+{
+  "categoeries": [
+    {
+      "id": "CATEGORIES10001",
+      "title": "Electronics",
+      "imageUrl": "electronics.jpg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Smartphones",
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_14.jpeg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpeg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Laptops & Computers",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Mac Air 13\" 1440 x 900 Laptop ",
+              "price": 129999.99,
+              "image": "mac_laptop.jpeg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "HP Victus 15",
+              "price": 99999.99,
+              "image": "hp_laptop.jpeg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "Dell Inspiron 14 5410 (2-in-1) ",
+              "price": 10999.99,
+              "image": "dell_laptop.jpeg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "ThinkPad T16 (16, AMD)",
+              "price": 1199.99,
+              "image": "lenovo_laptop.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Cameras & Photography",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Audio & Headphones",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Wearable Technology",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Gaming & Consoles",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES10002",
+      "title": "Clothing & Fashion",
+      "imageUrl": "cloths.jpeg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Men's Clothing",
+
+
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "Men Formal Shirts",
+              "price": 999.99,
+              "image": "men_formal_shirts.jpeg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Monograming Name 100% Cotton Formal Shirts",
+              "price": 799.99,
+              "image": "men_cloths.jpeg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Poly Cotton SHIMAK CASUAL SHIRTS PRINTED FULL SLEEVE",
+              "price": 899.99,
+              "image": "men_cloths2.jpeg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "Mens Designer Casual Shirt",
+              "price": 699.99,
+              "image": "mens_cloths.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Women's Clothing",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Enchanting Light Pink Sequins Net Wedding Wear Lehenga Choli ",
+              "price": 12999.99,
+              "image": "wedding_wear_lehenga.jpeg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "Growns",
+              "price": 999.99,
+              "image": "growns.png"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "Sarvagny Clothing Trending Printed Quality Suits & Dress Material",
+              "price": 1099.99,
+              "image": "semi_salwar_kameez.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "latest designs of suits for stitchingUltimate Special",
+              "price": 1199.99,
+              "image": "suit.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Kids' Clothing",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Pink Lehenga Choli Printed Jacket for Girls",
+              "price": 1299.99,
+              "image": "pink_lehenga_kids.jpeg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "Sea Green Long Frock",
+              "price": 999.99,
+              "image": "long_frock_girls.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "Full Sleeves Red",
+              "price": 1099.99,
+              "image": "full_sleeves_red_girls_dress.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Short Frock",
+              "price": 1199.99,
+              "image": "red_bow_dress.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Shoes & Footwear",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Accessories",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Activewear",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+
+    },
+    {
+      "id": "CATEGORIES10003",
+      "title": "Home & Kitchen",
+      "imageUrl": "homedecoration.jpg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Furniture",
+
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Kitchen Appliances",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Home Decor",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Bedding & Linens",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Storage & Organization",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Lighting",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES10004",
+      "title": "Beauty & Personal Care",
+      "imageUrl": "butiproduct.jpeg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Skincare",
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Makeup",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Haircare",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Fragrances",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Personal Care Appliances",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Men's Grooming",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES10005",
+      "title": "Books & Literature",
+      "imageUrl": "books.jpg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Fiction",
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Non-Fiction",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Children's Books",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Textbooks & Educational",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Audiobooks",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Magazines",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES10006",
+      "title": "Health & Wellness",
+      "imageUrl": "healthwellness.jpeg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Vitamins & Supplements",
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Fitness Equipment",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Yoga & Meditation",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Health Monitors",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Personal Care",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Sports Nutrition",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES10007",
+      "title": "Sports & Outdoors",
+      "imageUrl": "sports.jpg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Smartphones",
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Laptops & Computers",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Cameras & Photography",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Audio & Headphones",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Wearable Technology",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Gaming & Consoles",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES10008",
+      "title": "Toys & Games",
+      "imageUrl": "toys.jpeg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Smartphones",
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Laptops & Computers",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Cameras & Photography",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Audio & Headphones",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Wearable Technology",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Gaming & Consoles",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES10009",
+      "title": "Automotive & Tools",
+      "imageUrl": "atumotive.jpg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Smartphones",
+          "imageUrl": "capsicum.jpg",
+
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Laptops & Computers",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Cameras & Photography",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Audio & Headphones",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Wearable Technology",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Gaming & Consoles",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES10010",
+      "title": "Jewelry & Accessories",
+      "imageUrl": "jewelry.jpeg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Smartphones",
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Laptops & Computers",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Cameras & Photography",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Audio & Headphones",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Wearable Technology",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Gaming & Consoles",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES10011",
+      "title": "Baby & Maternity",
+      "imageUrl": "babymaternity.jpg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Smartphones",
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Laptops & Computers",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Cameras & Photography",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Audio & Headphones",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Wearable Technology",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Gaming & Consoles",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES10012",
+      "title": "Pet Supplies",
+      "imageUrl": "capsicum.jpg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Smartphones",
+          "imageUrl": "capsicum.jpg",
+
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Laptops & Computers",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Cameras & Photography",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Audio & Headphones",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Wearable Technology",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Gaming & Consoles",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES100013",
+      "title": "Groceries & Food",
+      "imageUrl": "capsicum.jpg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Smartphones",
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Laptops & Computers",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Cameras & Photography",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Audio & Headphones",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Wearable Technology",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Gaming & Consoles",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES10014",
+      "title": "Furniture & Decor",
+      "imageUrl": "capsicum.jpg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Smartphones",
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Laptops & Computers",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Cameras & Photography",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Audio & Headphones",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Wearable Technology",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Gaming & Consoles",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES10015",
+      "title": "Electronics Accessories",
+      "imageUrl": "capsicum.jpg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Smartphones",
+          "imageUrl": "capsicum.jpg",
+
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Laptops & Computers",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Cameras & Photography",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Audio & Headphones",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Wearable Technology",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Gaming & Consoles",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES100016",
+      "title": "Office Supplies",
+      "imageUrl": "capsicum.jpg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Smartphones",
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Laptops & Computers",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Cameras & Photography",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Audio & Headphones",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Wearable Technology",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Gaming & Consoles",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES10017",
+      "title": "Arts & Crafts",
+      "imageUrl": "capsicum.jpg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Smartphones",
+
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Laptops & Computers",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Cameras & Photography",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Audio & Headphones",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Wearable Technology",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Gaming & Consoles",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES10018",
+      "title": "Musical Instruments",
+      "imageUrl": "capsicum.jpg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Smartphones",
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Laptops & Computers",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Cameras & Photography",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Audio & Headphones",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Wearable Technology",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Gaming & Consoles",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES10019",
+      "title": "Outdoor Equipment",
+      "imageUrl": "capsicum.jpg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Smartphones",
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Laptops & Computers",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Cameras & Photography",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Audio & Headphones",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Wearable Technology",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Gaming & Consoles",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CATEGORIES10020",
+      "title": "Party Supplies",
+      "imageUrl": "capsicum.jpg",
+      "subCategoeries": [
+        {
+          "id": "SUBCATEGORIES10001",
+          "subTitle": "Smartphones",
+          "products": [
+            {
+              "id": "PRODUCT1001",
+              "name": "iPhone 13",
+              "price": 999.99,
+              "image": "iphone_13.jpg"
+            },
+            {
+              "id": "PRODUCT1002",
+              "name": "Samsung Galaxy S21",
+              "price": 799.99,
+              "image": "samsung_s21.jpg"
+            },
+            {
+              "id": "PRODUCT1003",
+              "name": "Google Pixel 6",
+              "price": 699.99,
+              "image": "pixel_6.jpg"
+            },
+            {
+              "id": "PRODUCT1004",
+              "name": "OnePlus 9",
+              "price": 699.99,
+              "image": "oneplus_9.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10002",
+          "subTitle": "Laptops & Computers",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10003",
+          "subTitle": "Cameras & Photography",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10004",
+          "subTitle": "Audio & Headphones",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10005",
+          "subTitle": "Wearable Technology",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        },
+        {
+          "id": "SUBCATEGORIES10006",
+          "subTitle": "Gaming & Consoles",
+          "products": [
+            {
+              "id": "PRODUCT2001",
+              "name": "Dell XPS 13",
+              "price": 1299.99,
+              "image": "dell_xps_13.jpg"
+            },
+            {
+              "id": "PRODUCT2002",
+              "name": "MacBook Air M1",
+              "price": 999.99,
+              "image": "macbook_air_m1.jpg"
+            },
+            {
+              "id": "PRODUCT2003",
+              "name": "HP Spectre x360",
+              "price": 1099.99,
+              "image": "hp_spectre_x360.jpg"
+            },
+            {
+              "id": "PRODUCT2004",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "price": 1199.99,
+              "image": "thinkpad_x1_carbon.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
