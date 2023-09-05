@@ -1,6 +1,6 @@
 # eccommerces_app
 
-A new Flutter project.
+This is a Ecommerce project UI by Using Assest Json File with SQLite Database and Provider Sate Managment.
 
 ## Getting Started
 
