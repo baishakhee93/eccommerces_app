@@ -4,13 +4,7 @@ This is a Ecommerce project UI by Using Assest Json File with SQLite Database an
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/baishakhee93/eccommerces_app/assets/50324744/4e1d7719-1d66-49d2-a633-6ce8a984b3d9
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
